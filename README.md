@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there! I'm Adam Mohd Muzammil</h2>
+<h2>👋 Hey there! I'm Adam Mohd Muzammil</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 👀 &nbsp; I'm interested in Front-end and Full-Stack development
 - 🔭 &nbsp; I’m currently working on React, Tailwind, Redux
 - 🌱 &nbsp; I’m currently learning Redux, NextJS, NodeJS
 - 👯 &nbsp; I’m looking to collaborate on Backend techs and DevOps
