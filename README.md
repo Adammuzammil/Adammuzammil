@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zammil24/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Mohammed%20Muzammil-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/zammil24/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Mohammed%20Muzammil-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:adammuzammil1998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adammuzammil1998@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
